@@ -18,20 +18,13 @@ French - Beginner
 <br>
 [Humber College](https://business.humber.ca/programs/finance.html)
 Bachelour Of Commerce, Finance 2018-2022
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 [Canadian Securities Institute](https://www.csi.ca/student/en_ca/courses/csi/csc.xhtml?gclid=CjwKCAjwt7SWBhAnEiwAx8ZLarnKsz6Vu9POjZJNIshu1uSnUF5YXRNr6k0dqhPKuCs13GuxZd1RBRoCjnUQAvD_BwE)
----
 Canadian Securities Course 1 2021-2022
 Canadian Securities Course 2 2021-2022
-
----
 [University College Algebra](https://www.algebra.hr/visoko-uciliste/en/studij/graduate-professional-program/data-science/)
----
 [University of Regina](https://www.uregina.ca/)
----
 
-### Certificates
+## Certificates
 University College Algebra, Artificial Intelligence, [Certificate](images/CertificateArtificialIntelligenceErenWeatheraldSengul.pdf) of Completion and Academic [Record](images/AcademicRecord–ErenWeatherald-Sengul.pdf)
 <br>
 University College Algebra, Croatian Language and Culture, [Certificate](/images/CertificateCroatianLanguage&Culture-ErenWeatherald-Sengul.pdf) of Completion
@@ -58,7 +51,7 @@ Algorithmic Trading and Stocks Essential Training, National Association of State
 
 ---
 
-### Papers and Research
+## Papers and Research
 
 - Senior Level Business Project, [Comprehensive Financial Plan for Family "X"]()
 - Advanced Certified Financial Planning, [Case of Francois and Nadine]()
@@ -69,7 +62,7 @@ Algorithmic Trading and Stocks Essential Training, National Association of State
 
 ---
 
-### 
+##
 
 
 
