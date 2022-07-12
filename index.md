@@ -78,7 +78,7 @@ Technical and Transferable Skills
        <th>Technical</th>
        <th>Transferable</th>
     </tr>
-
+</table>
 
 ---
 Hobbies and Other Activities
