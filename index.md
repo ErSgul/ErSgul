@@ -71,6 +71,17 @@ French - Beginner
 - [Project 5 Title]()
 
 ---
+Technical and Transferable Skills
+<table>
+    <tr>
+       <th>Skill</th>
+       <th>Technical</th>
+       <th>Transferable</th>
+    </tr>
+
+
+---
+Hobbies and Other Activities
 
 ##
 
