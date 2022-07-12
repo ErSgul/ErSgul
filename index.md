@@ -13,11 +13,11 @@
 
 ### Education 
 
-[Project 1 Title](/sample_page)
+<a href="https://business.humber.ca/programs/finance.html">[Humber College, Bach Of Commerce, Finance](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](https://business.humber.ca/programs/finance.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
