@@ -3,7 +3,6 @@
 <br>
 
 Hello and welcome to my continuesly edited website/blog! I created this page on github pages, and utilized GitHub user evanca's code while doing so. My goal in creating this website is to clearify my professional, personal, and educational background and to display my coding, creativity, and analytics skills to possible employers. 
-I'm a Canadian/Cypriot/Turkish Multiple National currently living in Toronto, Ontario, Canada looking for full-time employement or internships. 
 
 ## Languages
 
