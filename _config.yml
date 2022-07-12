@@ -3,7 +3,8 @@ logo: "/images/profile.jpg?raw=true" #photo1
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I'm a Canadian/Cypriot/Turkish Multiple National currently living in Toronto, Ontario, Canada looking for full-time employment or internships globally.
   <br><br>
-  <a href="https://www.linkedin.com/in/erensengul1/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/erensengul1/">View My LinkedIn Profile</a>
+  <a href="https://open.spotify.com/user/12184076078?si=46e106033baa4813"> View My Spotify Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
