@@ -61,16 +61,15 @@ French - Beginner
 
 Current 
 
-- []()
-- []()
-- []()
+- Daily Bread Food Bank[(link)](https://www.dailybread.ca/)
+- Allan Garden's Food Bank[(link)](https://allangardensfoodbank.net/)
 
 Past
 
-- []()
-- []()
-- []()
-- []()
+- Volunteer Sailing Instructor[(link)](https://www.gocekyachtclub.org/en/Home)
+- Red Cross[(link)](https://www.redcross.ca/)
+- Souls Harbour Soup Kitchen[(link)](https://www.shrmsk.com/)
+- Gocek Animal Rescue[(link)](http://www.gocekanimalrescue.com/)
 ---
 
 ## Papers and Research
@@ -90,7 +89,7 @@ Past
 - Travelling[(Map of Countries I've Visited)](https://www.amcharts.com/visited_countries/?i=62cdde50dff7d&cc=AL%2CBE%2CBG%2CHR%2CCY%2CDK%2CFR%2CDE%2CGR%2CIT%2CLU%2CME%2CPT%2CRS%2CTR%2CGB%2CVA%2CCA%2CUS#AL,BE,BG,HR,CY,DK,FR,DE,GR,IT,LU,ME,PT,RS,TR,GB,VA,CA,US)
 - Hiking and Running[(My Strava Info)]()
 - Reading[(GoodReads)]()
-- Learning Coding[(Personal Projects)]()
+- Coding[(Personal Projects)]()
 - Playing the Guitar and Bass Guitar
 - Sailing, Swimming and Diving
 
