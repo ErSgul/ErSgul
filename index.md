@@ -1,10 +1,10 @@
-#### Portfolio
+# Portfolio
 
-#### About Me
+##About Me
 
 ---
 
-### Languages
+## Languages
 
 English - Native/Bilingual
 <br>
@@ -17,8 +17,8 @@ French - Beginner
 
 ---
 
-### Education 
-
+## Education 
+<br>
 [Humber College](https://business.humber.ca/programs/finance.html)
 ---
 Bachelour Of Commerce, Finance 2018-2022
