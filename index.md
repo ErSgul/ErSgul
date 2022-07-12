@@ -16,7 +16,7 @@ French - Beginner
 
 ## Education 
 [Humber College](https://business.humber.ca/programs/finance.html)
-
+<br>
 - Bachelour Of Commerce, Finance 2018-2022
 <br>
 
