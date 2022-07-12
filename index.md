@@ -44,7 +44,23 @@ Canadian Securities Course 2 2021-2022
 
 ### Certificates
 [University College Algebra, ]()
-[Linkedin Learning](/LinkedinLearningPage)
+<br>
+Bloomberg Certificate
+<br>
+Building Tools With Python, [Linkedin Learning Certificate]()
+<br>
+Python Quick Start, [Linkedin Learning Certificate]()
+<br>
+Ecommerce Fundamentals, [Linkedin Learning Certificate]()
+<br>
+Data Cleaning in Python Essential Training, [Linkedin Learning Certificate]()
+<br>
+Learning Python, Linkedin [Learning Certificate]()
+<br>
+SQL for Non-Programmers, [Linkedin Learning Certificate]()
+<br>
+Algorithmic Trading and Stocks Essential Training, [National Association of State Boards of Accountancy(NASBA) Certificate]()
+<br>
 ### Volunteer Activity
 
 ---
