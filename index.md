@@ -43,9 +43,9 @@ Canadian Securities Course 2 2021-2022
 ---
 
 ### Certificates
-University College Algebra, Artificial Intelligence[Certificate of Completion](images/Algebra'sInternationalSummerSchoolCertificate-Artificial Intelligence-ErenWeatherald-Sengul.pdf) and [Academic Record](images/AcademicRecord-Algebra'sInternationalSummerSchool–ErenWeatherald-Sengul.pdf)
+University College Algebra, Artificial Intelligence, [Certificate of Completion](images/Algebra'sInternationalSummerSchoolCertificate-Artificial Intelligence-ErenWeatherald-Sengul.pdf) and [Academic Record](/images/AcademicRecord-Algebra'sInternationalSummerSchool–ErenWeatherald-Sengul.pdf)
 <br>
-University College Algebra, Croatian Language and Culture, [Certificate of Completeion](images/Algebra'sInternationalSummerSchool certificate-CroatianLanguage&Culture-Eren Weatherald-Sengul.pdf)
+University College Algebra, Croatian Language and Culture, [Certificate of Completeion](/images/Algebra'sInternationalSummerSchool certificate-CroatianLanguage&Culture-Eren Weatherald-Sengul.pdf)
 <br>
 City of Toronto Global Gap Challange, [Certificate of Participation](images/Certificate of Participation - Global Systems Gap Challenge (3).pdf)
 <br>
