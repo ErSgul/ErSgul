@@ -71,17 +71,14 @@ French - Beginner
 - [Project 5 Title]()
 
 ---
-Technical and Transferable Skills
-<table>
-    <tr>
-       <th>Skill</th>
-       <th>Technical</th>
-       <th>Transferable</th>
-    </tr>
-</table>
-
----
 Hobbies and Other Activities
+
+-Amateur Photography
+-Travelling
+-Hiking and Running
+-Reading
+-Learning Coding
+-Playing guitar and bass guitar
 
 ##
 
