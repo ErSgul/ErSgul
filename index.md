@@ -61,12 +61,12 @@ French - Beginner
 
 ## Volunteer Activity
 
-Current 
+###Current 
 
 Daily Bread Food Bank(2019-2022)[(link)](https://www.dailybread.ca/)
 Allan Garden's Food Bank(2019-2022)[(link)](https://allangardensfoodbank.net/)
 
-Past
+###Past
 
 Volunteer Sailing Instructor(2013-2017)[(link)](https://www.gocekyachtclub.org/en/Home)
 Red Cross(2017-2019)[(link)](https://www.redcross.ca/)
