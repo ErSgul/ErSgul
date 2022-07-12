@@ -1,5 +1,4 @@
 # Portfolio
-
 <br>
 
 Hello and welcome to my continually edited website/blog! I created this page on github pages, and utilized GitHub user evanca's code while doing so. My goal in creating this website is to clarify my professional, personal, and educational background and to display my coding, creativity, and analytics skills to possible employers. 
