@@ -2,8 +2,8 @@
 
 <br>
 
-##About Me
-
+Hello and welcome to my continuesly edited website/blog! I created this page on github pages, and utilized GitHub user evanca's code while doing so. My goal in creating this website is to clearify my professional, personal and educational background to possible employers and to display my coding, creativity and analytics skills.
+I'm a Canadian/Cypriot/Turkish Multiple National currently living in Toronto, Ontario, Canada. I've recently completed my studies
 ## Languages
 
 English - Native/Bilingual
