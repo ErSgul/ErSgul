@@ -63,19 +63,19 @@ French - Beginner
 
 ###Current 
 
-Daily Bread Food Bank(2019-2022)[(link)](https://www.dailybread.ca/)
+Daily Bread Food Bank(2019-2022)[(website)](https://www.dailybread.ca/)
 
-Allan Garden's Food Bank(2019-2022)[(link)](https://allangardensfoodbank.net/)
+Allan Garden's Food Bank(2019-2022)[(website)](https://allangardensfoodbank.net/)
 
 ###Past
 
-Volunteer Sailing Instructor(2013-2017)[(link)](https://www.gocekyachtclub.org/en/Home)
+Volunteer Sailing Instructor(2013-2017)[(website)](https://www.gocekyachtclub.org/en/Home)
 
-Red Cross(2017-2019)[(link)](https://www.redcross.ca/)
+Red Cross(2017-2019)[(website)](https://www.redcross.ca/)
 
-Souls Harbour Soup Kitchen(2017-2019)[(link)](https://www.shrmsk.com/)
+Souls Harbour Soup Kitchen(2017-2019)[(website)](https://www.shrmsk.com/)
 
-Gocek Animal Rescue(2015-2017)[(link)](http://www.gocekanimalrescue.com/)
+Gocek Animal Rescue(2015-2017)[(website)](http://www.gocekanimalrescue.com/)
 
 ---
 
