@@ -43,9 +43,10 @@ Canadian Securities Course 2 2021-2022
 ---
 
 ### Certificates
-[University College Algebra, ]()
+University College Algebra, [Certificate of Completion]()
 <br>
-Bloomberg Certificate
+City of Toronto Global Gap Challange, [Certificate of Participation](images/Certificate of Participation - Global Systems Gap Challenge (3).pdf)
+Bloomberg Market Concepts, [Certificate](/images/certificate_of_completion.pdf)
 <br>
 Building Tools With Python, [Linkedin Learning Certificate](https://www.linkedin.com/learning/certificates/0bc0144c2cb57eba40352389de90969791105a018b9a1cc1cfa07d780093740c?u=2218586)
 <br>
