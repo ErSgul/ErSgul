@@ -13,15 +13,15 @@
 
 ### Education 
 
-<a href="https://business.humber.ca/programs/finance.html">[Humber College, Bach Of Commerce, Finance](/sample_page)
+[Humber College](https://business.humber.ca/programs/finance.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](https://business.humber.ca/programs/finance.html)
+[University College Algebra]([https://business.humber.ca/programs/finance.html](https://www.algebra.hr/visoko-uciliste/en/studij/graduate-professional-program/data-science/))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[University of Regina]([http://example.com/](https://www.uregina.ca/))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
