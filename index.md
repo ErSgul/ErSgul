@@ -17,16 +17,22 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[University College Algebra]([https://business.humber.ca/programs/finance.html](https://www.algebra.hr/visoko-uciliste/en/studij/graduate-professional-program/data-science/))
+[University College Algebra](https://business.humber.ca/programs/finance.html](https://www.algebra.hr/visoko-uciliste/en/studij/graduate-professional-program/data-science/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[University of Regina]([http://example.com/](https://www.uregina.ca/))
+[University of Regina](https://www.uregina.ca/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
+### Certificates
+[Linkedin Certificates]([Project 1 Title](/sample_page)
 ### Volunteer Activity
+
+---
+
+### Papers and Research
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
