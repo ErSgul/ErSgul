@@ -59,6 +59,18 @@ French - Beginner
 <br>
 ### Volunteer Activity
 
+Current 
+
+- []()
+- []()
+- []()
+
+Past
+
+- []()
+- []()
+- []()
+- []()
 ---
 
 ## Papers and Research
@@ -71,14 +83,16 @@ French - Beginner
 - [Project 5 Title]()
 
 ---
-Hobbies and Other Activities
 
--Amateur Photography
--Travelling
--Hiking and Running
--Reading
--Learning Coding
--Playing guitar and bass guitar
+## Hobbies and Other Activities
+
+- Amateur Photography[(my amateur album)]()
+- Travelling[(Map of Countries I've Visited)]()
+- Hiking and Running[(My Strava Info)]()
+- Reading[(GoodReads)]()
+- Learning Coding[(Personal Projects)]
+- Playing the Guitar and Bass Guitar
+- Sailing, Swimming and Diving
 
 ##
 
