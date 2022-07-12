@@ -9,7 +9,7 @@
 English - Native/Bilingual
 <br>
 Turkish - Native/Bilingual
----
+<br>
 French - Beginner
 
 ---
@@ -43,18 +43,20 @@ Canadian Securities Course 2 2021-2022
 ---
 
 ### Certificates
-[Linkedin Certificates]([Project 1 Title](/sample_page)
+[University College Algebra, ]([Project 1 Title](/sample_page)
+[LinkedinLearning Activity]
 ### Volunteer Activity
 
 ---
 
 ### Papers and Research
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Senior Level Business Project, Comprehensive Financial Plan for Family "X"]()
+- [Advanced Certified Financial Planning, Case of Francois and Nadine]()
+- [Data Analytics and Fintech, NASDAQ 100 Forecast]()
+- [Portfolio Management and Alternative Investments]()
+- [Project 4 Title]()
+- [Project 5 Title]()
 
 ---
 
