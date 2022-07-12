@@ -5,9 +5,9 @@
 ---
 
 ### Languages
----
+
 English - Native/Bilingual
----
+<br>
 Turkish - Native/Bilingual
 ---
 French - Beginner
