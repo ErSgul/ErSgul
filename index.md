@@ -51,10 +51,10 @@ Canadian Securities Course 2 2021-2022
 
 ### Papers and Research
 
-- [Senior Level Business Project, Comprehensive Financial Plan for Family "X"]()
-- [Advanced Certified Financial Planning, Case of Francois and Nadine]()
-- [Data Analytics and Fintech, NASDAQ 100 Forecast]()
-- [Portfolio Management and Alternative Investments]()
+- Senior Level Business Project, [Comprehensive Financial Plan for Family "X"]()
+- Advanced Certified Financial Planning, [Case of Francois and Nadine]()
+- Data Analytics and Fintech, [NASDAQ 100 Forecast]()
+- Portfolio Management and Alternative Investments, [Assignment]()
 - [Project 4 Title]()
 - [Project 5 Title]()
 
