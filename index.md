@@ -17,7 +17,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[University College Algebra](https://business.humber.ca/programs/finance.html](https://www.algebra.hr/visoko-uciliste/en/studij/graduate-professional-program/data-science/)
+[University College Algebra](https://www.algebra.hr/visoko-uciliste/en/studij/graduate-professional-program/data-science/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
