@@ -26,11 +26,11 @@ Canadian Securities Course 1 2021-2022
 Canadian Securities Course 2 2021-2022
 <br>
 [University College Algebra](https://www.algebra.hr/visoko-uciliste/en/studij/graduate-professional-program/data-science/)
-
+<br>
 [University of Regina](https://www.uregina.ca/)
 
 ## Certificates
-University College Algebra, Artificial Intelligence, [Certificate](images/CertificateArtificialIntelligenceErenWeatheraldSengul.pdf) of Completion and Academic [Record](images/AcademicRecord–ErenWeatherald-Sengul.pdf)
+University College Algebra, [Artificial Intelligence](https://www.algebra.hr/international-school/summer-school/courses/artificial-intelligence/), [Certificate](images/CertificateArtificialIntelligenceErenWeatheraldSengul.pdf) of Completion and Academic [Record](images/AcademicRecord–ErenWeatherald-Sengul.pdf)
 <br>
 University College Algebra, Croatian Language and Culture, [Certificate](/images/CertificateCroatianLanguage&Culture-ErenWeatherald-Sengul.pdf) of Completion
 <br>
