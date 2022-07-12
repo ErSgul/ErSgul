@@ -57,19 +57,21 @@ French - Beginner
 <br>
 - Algorithmic Trading and Stocks Essential Training, National Association of State Boards of Accountancy(NASBA) [Certificate](https://www.linkedin.com/learning/certificates/81e31eae70d1618b0ae652016c3f17245466335b2c9e32ddc08c9fa5f182a1d5?u=2218586)
 <br>
-### Volunteer Activity
+
+
+## Volunteer Activity
 
 Current 
 
-- Daily Bread Food Bank[(link)](https://www.dailybread.ca/)
-- Allan Garden's Food Bank[(link)](https://allangardensfoodbank.net/)
+Daily Bread Food Bank(2019-2022)[(link)](https://www.dailybread.ca/)
+Allan Garden's Food Bank(2019-2022)[(link)](https://allangardensfoodbank.net/)
 
 Past
 
-- Volunteer Sailing Instructor[(link)](https://www.gocekyachtclub.org/en/Home)
-- Red Cross[(link)](https://www.redcross.ca/)
-- Souls Harbour Soup Kitchen[(link)](https://www.shrmsk.com/)
-- Gocek Animal Rescue[(link)](http://www.gocekanimalrescue.com/)
+Volunteer Sailing Instructor(2013-2017)[(link)](https://www.gocekyachtclub.org/en/Home)
+Red Cross(2017-2019)[(link)](https://www.redcross.ca/)
+Souls Harbour Soup Kitchen(2017-2019)[(link)](https://www.shrmsk.com/)
+Gocek Animal Rescue(2015-2017)[(link)](http://www.gocekanimalrescue.com/)
 ---
 
 ## Papers and Research
