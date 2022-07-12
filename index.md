@@ -44,8 +44,7 @@ Canadian Securities Course 2 2021-2022
 
 ### Certificates
 [University College Algebra, ]()
-[Linkedin Learning](/sample_page)
-[LinkedinLearning Activity](/LinkedinLearningPage)
+[Linkedin Learning](/LinkedinLearningPage)
 ### Volunteer Activity
 
 ---
