@@ -17,6 +17,7 @@ French - Beginner
 ## Education 
 <br>
 [Humber College](https://business.humber.ca/programs/finance.html)
+
 Bachelour Of Commerce, Finance 2018-2022
 <br>
 [Canadian Securities Institute](https://www.csi.ca/student/en_ca/courses/csi/csc.xhtml?gclid=CjwKCAjwt7SWBhAnEiwAx8ZLarnKsz6Vu9POjZJNIshu1uSnUF5YXRNr6k0dqhPKuCs13GuxZd1RBRoCjnUQAvD_BwE)
@@ -25,8 +26,12 @@ Bachelour Of Commerce, Finance 2018-2022
 <br>
 
 [University College Algebra](https://www.algebra.hr/visoko-uciliste/en/studij/graduate-professional-program/data-science/)
+
+Artifitial Inteligence, 2021
 <br>
 [University of Regina](https://www.uregina.ca/)
+
+Bachelour of Arts, Pyschology, 2016-2018
 
 ## Certificates
 - University College Algebra, [Artificial Intelligence](https://www.algebra.hr/international-school/summer-school/courses/artificial-intelligence/), [Certificate](images/CertificateArtificialIntelligenceErenWeatheraldSengul.pdf) of Completion and Academic [Record](images/AcademicRecord–ErenWeatherald-Sengul.pdf)
