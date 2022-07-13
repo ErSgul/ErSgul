@@ -28,7 +28,7 @@ French - Beginner
 <br>
 
 ## Education 
-[Humber College](https://business.humber.ca/programs/finance.html)
+[Humber College ITAL](https://business.humber.ca/programs/finance.html)
 <br>
 - Bachelor Of Commerce, Finance 2018-2022
 <br>
