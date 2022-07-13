@@ -65,7 +65,6 @@ Hello and welcome to my continually edited website/blog! I created this page on 
 
 
 ## Volunteer Activity
----
 
 Daily Bread Food Bank(2019-2022)[(website)](https://www.dailybread.ca/)
 
@@ -81,7 +80,7 @@ Gocek Animal Rescue(2015-2017)[(website)](http://www.gocekanimalrescue.com/)
 
 ---
 
-## Papers and Research
+## College Papers and Research Assignments
 
 - Senior Level Business Project, [Comprehensive Financial Plan for Family "X"]()
 - Advanced Certified Financial Planning, [Case of Francois and Nadine]()
@@ -101,9 +100,4 @@ Gocek Animal Rescue(2015-2017)[(website)](http://www.gocekanimalrescue.com/)
 - Coding[(Personal Projects)]()
 - Playing the Guitar and Bass Guitar
 - Sailing, Swimming and Diving
-
-##
-
-
-
 ---
