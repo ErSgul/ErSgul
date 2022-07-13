@@ -6,7 +6,7 @@ Hello and welcome to my continually edited website/blog! I created this page on 
 ## Languages
 <table>
 <tr>
-       <th>English</th>
+      <th>English</th>
       <th>Turkish</th>
       <th>French</th>
       <th>Croatian</th>
@@ -21,6 +21,7 @@ Hello and welcome to my continually edited website/blog! I created this page on 
 <br>
 ## Education 
 [Humber College ITAL](https://business.humber.ca/programs/finance.html), Bachelor Of Commerce, Finance 2018-2022
+new page for courses taken(in progress)
 <br>
 
 [Canadian Securities Institute](https://www.csi.ca/student/en_ca/courses/csi/csc.xhtml?gclid=CjwKCAjwt7SWBhAnEiwAx8ZLarnKsz6Vu9POjZJNIshu1uSnUF5YXRNr6k0dqhPKuCs13GuxZd1RBRoCjnUQAvD_BwE), 
@@ -74,7 +75,7 @@ Gocek Animal Rescue(2015-2017)[(website)](http://www.gocekanimalrescue.com/)
 
 ---
 
-## College Papers and Research Assignments
+## College Papers and Research Assignments(in progress)
 
 - Senior Level Business Project, [Comprehensive Financial Plan for Family "X"]()
 - Advanced Certified Financial Planning, [Case of Francois and Nadine]()
@@ -85,7 +86,7 @@ Gocek Animal Rescue(2015-2017)[(website)](http://www.gocekanimalrescue.com/)
 
 ---
 
-## Hobbies and Other Activities
+## Hobbies and Other Activities(in progress)
 - Traveling[(Map of Countries I've Visited)](https://www.amcharts.com/visited_countries/?i=62cdde50dff7d&cc=AL%2CBE%2CBG%2CHR%2CCY%2CDK%2CFR%2CDE%2CGR%2CIT%2CLU%2CME%2CPT%2CRS%2CTR%2CGB%2CVA%2CCA%2CUS#AL,BE,BG,HR,CY,DK,FR,DE,GR,IT,LU,ME,PT,RS,TR,GB,VA,CA,US)
 - Hiking and Running[(My Strava Info)]()
 - Reading[(GoodReads)]()
