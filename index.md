@@ -18,13 +18,6 @@ Hello and welcome to my continually edited website/blog! I created this page on 
     <td>Beginner</td>
   </tr>
 </table>
-
-English - Native/Bilingual
-<br>
-Turkish - Native/Bilingual
-<br>
-French - Beginner
-
 <br>
 
 ## Education 
