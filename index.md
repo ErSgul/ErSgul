@@ -18,7 +18,7 @@ Hello and welcome to my continually edited website/blog! I created this page on 
     <td>Beginner</td>
   </tr>
 </table>
-<br>
+
 ## Education 
 [Humber College ITAL](https://business.humber.ca/programs/finance.html), Bachelor Of Commerce, Finance 2018-2022
 new page for courses taken(in progress)
