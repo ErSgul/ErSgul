@@ -88,10 +88,13 @@ Gocek Animal Rescue(2015-2017)[(website)](http://www.gocekanimalrescue.com/)
 
 ## Hobbies and Other Activities(in progress)
 - Traveling[(Map of Countries I've Visited)](https://www.amcharts.com/visited_countries/?i=62cdde50dff7d&cc=AL%2CBE%2CBG%2CHR%2CCY%2CDK%2CFR%2CDE%2CGR%2CIT%2CLU%2CME%2CPT%2CRS%2CTR%2CGB%2CVA%2CCA%2CUS#AL,BE,BG,HR,CY,DK,FR,DE,GR,IT,LU,ME,PT,RS,TR,GB,VA,CA,US)
+'''
 - Hiking and Running[(My Strava Info)]()
 - Reading[(GoodReads)]()
 - Amateur Photography[(my amateur album)]()
 - Coding[(Personal Projects)]()
 - Playing the Guitar and Bass Guitar
 - Sailing, Swimming and Diving
+'''
 ---
+
