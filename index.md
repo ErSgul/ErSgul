@@ -64,17 +64,17 @@ Hello and welcome to my continually edited website/blog! I created this page on 
 
 ## Volunteer Activity
 
-Daily Bread Food Bank(2019-2022)[(website)](https://www.dailybread.ca/)
+[Daily Bread Food Bank](https://www.dailybread.ca/), Volunteer(2019-2022)
 
-Allan Garden's Food Bank(2019-2022)[(website)](https://allangardensfoodbank.net/)
+[(Allan Garden's Food Bank)](https://allangardensfoodbank.net/), Volunteer(2019-2022)
 
-Volunteer Sailing Instructor(2013-2017)[(website)](https://www.gocekyachtclub.org/en/Home)
+[Gocek Yacht Club](https://www.gocekyachtclub.org/en/Home), Volunteer Sailing Instructor(2013-2017)
 
-Red Cross(2017-2019)[(website)](https://www.redcross.ca/)
+[Red Cross](https://www.redcross.ca/), Volunteer(2017-2019)
 
-Souls Harbour Soup Kitchen(2017-2019)[(website)](https://www.shrmsk.com/)
+[Souls Harbour Soup Kitchen](https://www.shrmsk.com/), Volunteer(2017-2019)
 
-Gocek Animal Rescue(2015-2017)[(website)](http://www.gocekanimalrescue.com/)
+[Gocek Animal Rescue](http://www.gocekanimalrescue.com/), Volunteer(2015-2017)
 
 ---
 
