@@ -35,6 +35,8 @@ new page for courses taken(in progress)
 [University of Regina](https://www.uregina.ca/), Bachelor of Arts, Psychology, 2016-2018
 
 ## Certificates
+<br>
+'''
 - University College Algebra, [Artificial Intelligence](https://www.algebra.hr/international-school/summer-school/courses/artificial-intelligence/), [Certificate](images/CertificateArtificialIntelligenceErenWeatheraldSengul.pdf) of Completion and Academic [Record](images/AcademicRecord–ErenWeatherald-Sengul.pdf)
 <br>
 - University College Algebra, Croatian Language and Culture, [Certificate](/images/CertificateCroatianLanguage&Culture-ErenWeatherald-Sengul.pdf) of Completion
@@ -56,8 +58,8 @@ new page for courses taken(in progress)
 - SQL for Non-Programmers, Linkedin Learning [Certificate](https://www.linkedin.com/learning/certificates/50b44e14ed21be72a6be4fc6a7200025a2e52af0ed1487046976c0669f56b971?u=2218586)
 <br>
 - Algorithmic Trading and Stocks Essential Training, National Association of State Boards of Accountancy(NASBA) [Certificate](https://www.linkedin.com/learning/certificates/81e31eae70d1618b0ae652016c3f17245466335b2c9e32ddc08c9fa5f182a1d5?u=2218586)
+'''
 <br>
-
 
 ## Volunteer Activity
 
