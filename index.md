@@ -24,8 +24,6 @@ Hello and welcome to my continually edited website/blog! I created this page on 
 
 ~~- [List]() of Completed Courses and Other Relevant Content~~
 
-<br>
-
 [Canadian Securities Institute](https://www.csi.ca/student/en_ca/courses/csi/csc.xhtml?gclid=CjwKCAjwt7SWBhAnEiwAx8ZLarnKsz6Vu9POjZJNIshu1uSnUF5YXRNr6k0dqhPKuCs13GuxZd1RBRoCjnUQAvD_BwE), 
 - Canadian Securities Course 1 2021-2022
 - Canadian Securities Course 2 2021-2022
