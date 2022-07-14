@@ -21,7 +21,8 @@ Hello and welcome to my continually edited website/blog! I created this page on 
 
 ## Education 
 [Humber College ITAL](https://business.humber.ca/programs/finance.html), Bachelor Of Commerce, Finance 2018-2022
-new page for courses taken(in progress)
+~~- List of Completed Courses and Other Relevant Content~~
+
 <br>
 
 [Canadian Securities Institute](https://www.csi.ca/student/en_ca/courses/csi/csc.xhtml?gclid=CjwKCAjwt7SWBhAnEiwAx8ZLarnKsz6Vu9POjZJNIshu1uSnUF5YXRNr6k0dqhPKuCs13GuxZd1RBRoCjnUQAvD_BwE), 
