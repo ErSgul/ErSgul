@@ -84,7 +84,9 @@ Gocek Animal Rescue(2015-2017)[(website)](http://www.gocekanimalrescue.com/)
 - Advanced Certified Financial Planning, [Case of Francois and Nadine]()
 - Data Analytics and Fintech, [NASDAQ 100 Forecast]()
 - Portfolio Management and Alternative Investments, [Assignment]()
+
 ~~- [Project 4 Title]()~~
+
 ~~- [Project 5 Title]()~~
 
 ---
