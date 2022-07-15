@@ -35,7 +35,7 @@
 
 ## Certificates
 
-- University College Algebra, [Artificial Intelligence](https://www.algebra.hr/international-school/summer-school/courses/artificial-intelligence/), [Certificate](images/CertificateArtificialIntelligenceErenWeatheraldSengul.pdf) of Completion and Academic [Record](images/AcademicRecord–ErenWeatherald-Sengul.pdf)
+**- University College Algebra, [Artificial Intelligence](https://www.algebra.hr/international-school/summer-school/courses/artificial-intelligence/), [Certificate](images/CertificateArtificialIntelligenceErenWeatheraldSengul.pdf) of Completion and Academic [Record](images/AcademicRecord–ErenWeatherald-Sengul.pdf)
 
 - University College Algebra, Croatian Language and Culture, [Certificate](/images/CertificateCroatianLanguage&Culture-ErenWeatherald-Sengul.pdf) of Completion
 
@@ -55,13 +55,13 @@
 
 - SQL for Non-Programmers, Linkedin Learning [Certificate](https://www.linkedin.com/learning/certificates/50b44e14ed21be72a6be4fc6a7200025a2e52af0ed1487046976c0669f56b971?u=2218586)
 
-- Algorithmic Trading and Stocks Essential Training, National Association of State Boards of Accountancy(NASBA) [Certificate](https://www.linkedin.com/learning/certificates/81e31eae70d1618b0ae652016c3f17245466335b2c9e32ddc08c9fa5f182a1d5?u=2218586)
+- Algorithmic Trading and Stocks Essential Training, National Association of State Boards of Accountancy(NASBA) [Certificate](https://www.linkedin.com/learning/certificates/81e31eae70d1618b0ae652016c3f17245466335b2c9e32ddc08c9fa5f182a1d5?u=2218586)**
 
 <br>
 
 ## Volunteer Activity
 
-[Daily Bread Food Bank](https://www.dailybread.ca/), Volunteer(2019-2022)
+**[Daily Bread Food Bank](https://www.dailybread.ca/), Volunteer(2019-2022)
 
 [(Allan Garden's Food Bank)](https://allangardensfoodbank.net/), Volunteer(2019-2022)
 
@@ -71,7 +71,7 @@
 
 [Souls Harbour Soup Kitchen](https://www.shrmsk.com/), Volunteer(2017-2019)
 
-[Gocek Animal Rescue](http://www.gocekanimalrescue.com/), Volunteer(2015-2017)
+[Gocek Animal Rescue](http://www.gocekanimalrescue.com/), Volunteer(2015-2017)**
 
 ---
 
