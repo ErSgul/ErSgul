@@ -1,4 +1,4 @@
-## ***Portfolio***
+***Portfolio***
    
   **Hello and welcome to my website/blog! It's a work in progress. My goal in creating this website is to clarify my professional, personal, and educational background and to display my coding, creativity, and analytics skills to possible employers.** 
 
