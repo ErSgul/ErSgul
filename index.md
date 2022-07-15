@@ -35,7 +35,7 @@
 
 ## Certificates
 
-**- University College Algebra, [Artificial Intelligence](https://www.algebra.hr/international-school/summer-school/courses/artificial-intelligence/), [Certificate](images/CertificateArtificialIntelligenceErenWeatheraldSengul.pdf) of Completion and Academic [Record](images/AcademicRecord–ErenWeatherald-Sengul.pdf)
+- **University College Algebra, [Artificial Intelligence](https://www.algebra.hr/international-school/summer-school/courses/artificial-intelligence/), [Certificate](images/CertificateArtificialIntelligenceErenWeatheraldSengul.pdf) of Completion and Academic [Record](images/AcademicRecord–ErenWeatherald-Sengul.pdf)
 
 - University College Algebra, Croatian Language and Culture, [Certificate](/images/CertificateCroatianLanguage&Culture-ErenWeatherald-Sengul.pdf) of Completion
 
