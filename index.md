@@ -1,8 +1,8 @@
-## Portfolio
+***## Portfolio***
    
   **Hello and welcome to my website/blog! It's a work in progress. My goal in creating this website is to clarify my professional, personal, and educational background and to display my coding, creativity, and analytics skills to possible employers.** 
 
-## Languages
+## ***Languages***
 <table>
 <tr>
       <th>English</th>
@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-## Education 
+## ***Education***
 **[Humber College ITAL](https://business.humber.ca/programs/finance.html), Bachelor Of Commerce, Finance 2018-2022**
 
    - **[List]() of Completed Courses and Other Relevant Content**
@@ -33,7 +33,7 @@
 
 **[University of Regina](https://www.uregina.ca/), Bachelor of Arts, Psychology, 2016-2018**
 
-## Certificates
+## ***Certificates***
 
 - **University College Algebra, [Artificial Intelligence](https://www.algebra.hr/international-school/summer-school/courses/artificial-intelligence/), [Certificate](images/CertificateArtificialIntelligenceErenWeatheraldSengul.pdf) of Completion and Academic [Record](images/AcademicRecord–ErenWeatherald-Sengul.pdf)**
 
@@ -59,7 +59,7 @@
 
 <br>
 
-## Volunteer Activity
+## ***Volunteer Activity***
 
 **[Daily Bread Food Bank](https://www.dailybread.ca/), Volunteer(2019-2022)**
 
@@ -75,7 +75,7 @@
 
 ---
 
-## College Papers and Research Assignments(in progress)
+## ***College Papers and Research Assignments(in progress)***
 
 - **Senior Level Business Project, [Comprehensive Financial Plan for Family "X"]()**
 - **Advanced Certified Financial Planning, [Case of Francois and Nadine]()**
@@ -86,7 +86,7 @@
 
 ---
 
-## Hobbies and Other Activities(in progress)
+## ***Hobbies and Other Activities(in progress)***
 
 - **Traveling[(Map of Countries I've Visited)](https://www.amcharts.com/visited_countries/?i=62cdde50dff7d&cc=AL%2CBE%2CBG%2CHR%2CCY%2CDK%2CFR%2CDE%2CGR%2CIT%2CLU%2CME%2CPT%2CRS%2CTR%2CGB%2CVA%2CCA%2CUS#AL,BE,BG,HR,CY,DK,FR,DE,GR,IT,LU,ME,PT,RS,TR,GB,VA,CA,US)**
 - **Hiking and Running[(My Strava)]()**
