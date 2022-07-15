@@ -61,37 +61,37 @@
 
 ## Volunteer Activity
 
-**[Daily Bread Food Bank](https://www.dailybread.ca/), Volunteer(2019-2022)
+**[Daily Bread Food Bank](https://www.dailybread.ca/), Volunteer(2019-2022)**
 
-[(Allan Garden's Food Bank)](https://allangardensfoodbank.net/), Volunteer(2019-2022)
+**[(Allan Garden's Food Bank)](https://allangardensfoodbank.net/), Volunteer(2019-2022)**
 
-[Gocek Yacht Club](https://www.gocekyachtclub.org/en/Home), Volunteer Sailing Instructor(2013-2017)
+**[Gocek Yacht Club](https://www.gocekyachtclub.org/en/Home), Volunteer Sailing Instructor(2013-2017)**
 
-[Red Cross](https://www.redcross.ca/), Volunteer(2017-2019)
+**[Red Cross](https://www.redcross.ca/), Volunteer(2017-2019)**
 
-[Souls Harbour Soup Kitchen](https://www.shrmsk.com/), Volunteer(2017-2019)
+**[Souls Harbour Soup Kitchen](https://www.shrmsk.com/), Volunteer(2017-2019)**
 
-[Gocek Animal Rescue](http://www.gocekanimalrescue.com/), Volunteer(2015-2017)**
+**[Gocek Animal Rescue](http://www.gocekanimalrescue.com/), Volunteer(2015-2017)**
 
 ---
 
 ## College Papers and Research Assignments(in progress)
 
-- Senior Level Business Project, [Comprehensive Financial Plan for Family "X"]()
-- Advanced Certified Financial Planning, [Case of Francois and Nadine]()
-- Data Analytics and Fintech, [NASDAQ 100 Forecast]()
-- Portfolio Management and Alternative Investments, [Assignment]()
-- TBD[Project 4 Title]()
-- TBD[Project 5 Title]()
+- **Senior Level Business Project, [Comprehensive Financial Plan for Family "X"]()**
+- **Advanced Certified Financial Planning, [Case of Francois and Nadine]()**
+- **Data Analytics and Fintech, [NASDAQ 100 Forecast]()**
+- **Portfolio Management and Alternative Investments, [Assignment]()**
+- **TBD[Project 4 Title]()**
+- **TBD[Project 5 Title]()**
 
 ---
 
 ## Hobbies and Other Activities(in progress)
 
-- Traveling[(Map of Countries I've Visited)](https://www.amcharts.com/visited_countries/?i=62cdde50dff7d&cc=AL%2CBE%2CBG%2CHR%2CCY%2CDK%2CFR%2CDE%2CGR%2CIT%2CLU%2CME%2CPT%2CRS%2CTR%2CGB%2CVA%2CCA%2CUS#AL,BE,BG,HR,CY,DK,FR,DE,GR,IT,LU,ME,PT,RS,TR,GB,VA,CA,US)
-- Hiking and Running[(My Strava)]()
-- Reading[(GoodReads)]()
-- Amateur Photography[(My Album)]()
-- Coding[(Personal Projects)]()
-- Playing the Guitar and Bass Guitar
-- Sailing, Swimming and Diving
+- **Traveling[(Map of Countries I've Visited)](https://www.amcharts.com/visited_countries/?i=62cdde50dff7d&cc=AL%2CBE%2CBG%2CHR%2CCY%2CDK%2CFR%2CDE%2CGR%2CIT%2CLU%2CME%2CPT%2CRS%2CTR%2CGB%2CVA%2CCA%2CUS#AL,BE,BG,HR,CY,DK,FR,DE,GR,IT,LU,ME,PT,RS,TR,GB,VA,CA,US)**
+- **Hiking and Running[(My Strava)]()**
+- **Reading[(GoodReads)]()**
+- **Amateur Photography[(My Album)]()**
+- **Coding[(Personal Projects)]()**
+- **Playing the Guitar and Bass Guitar**
+- **Sailing, Swimming and Diving**
