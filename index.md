@@ -19,9 +19,9 @@
 </table>
 
 ## Education 
-**[Humber College ITAL](https://business.humber.ca/programs/finance.html), Bachelor Of Commerce, Finance 2018-2022
+**[Humber College ITAL](https://business.humber.ca/programs/finance.html), Bachelor Of Commerce, Finance 2018-2022**
 
-   - [List]() of Completed Courses and Other Relevant Content**
+   - **[List]() of Completed Courses and Other Relevant Content**
 
 **[Canadian Securities Institute](https://www.csi.ca/student/en_ca/courses/csi/csc.xhtml?gclid=CjwKCAjwt7SWBhAnEiwAx8ZLarnKsz6Vu9POjZJNIshu1uSnUF5YXRNr6k0dqhPKuCs13GuxZd1RBRoCjnUQAvD_BwE), 
       - Canadian Securities Course 1 2021-2022
