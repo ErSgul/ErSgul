@@ -6,16 +6,16 @@
 ## ***Languages***
 <table>
 <tr>
-      <th>English</th>
-      <th>Turkish</th>
-      <th>French</th>
-      <th>Croatian</th>
+      <th>**English**</th>
+      <th>**Turkish**</th>
+      <th>**French**</th>
+      <th>**Croatian**</th>
   </tr>
   <tr>
-    <td>Native/Bilingual</td>
-    <td>Native/Bilingual</td>
-    <td>Beginner</td>
-    <td>Beginner</td>
+    <td>**Native/Bilingual**</td>
+    <td>**Native/Bilingual**</td>
+    <td>**Beginner**</td>
+    <td>**Beginner**</td>
   </tr>
 </table>
 
