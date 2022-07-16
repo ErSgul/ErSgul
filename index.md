@@ -4,7 +4,7 @@
   **Hello and welcome to my website/blog! It's a work in progress. My goal in creating this website is to clarify my professional, personal, and educational background and to display my coding, creativity, and analytics skills to possible employers.** 
 
 ## ***Languages***
-<table style:border="1px solid black">
+<table>
 <tr>
       <th>**English**</th>
       <th>**Turkish**</th>
