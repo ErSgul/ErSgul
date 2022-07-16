@@ -30,7 +30,6 @@
 <br>
 
 **[University College Algebra](https://www.algebra.hr/visoko-uciliste/en/studij/graduate-professional-program/data-science/), Artificial Intelligence, 2021**
-<br>
 
 **[University of Regina](https://www.uregina.ca/), Bachelor of Arts, Psychology, 2016-2018**
 
