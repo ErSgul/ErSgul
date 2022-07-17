@@ -1,8 +1,9 @@
 Examples of Comleted College Projects and Assignments
 <br>
 1 Senior Level Business Project, [Comprehensive Financial Plan for Family “X”](file name)
-  Assignment Background
-  
+   
+    Assignment Background
+    
     Topics covered
     
     Resulting Grade
